@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Oyamasiphula
-- 👀 I’m interested in practising javascript ,Python and nodejs.
-- 🌱 I’m currently learning nodejs and Python .
-- 💞️ I’m looking to collaborate on nodejs project.
-- 📫 How to reach me ...
+- 👀 I’m interested in practising javascript,html,css and nodejs plus frameworks.
+- 🌱 I’m currently learning nodejs and javascript for website creation .
+- 💞️ I’m looking to collaborate on any nodejs project with nodeJS experts.
+- 📫 How to reach me ... You can get my contact info from ---> https://oyamasiphula.github.io
+- Im looking for Tech Pro in Paarl so I can team with. In all this could be use as a backup of my personal Website
 
 <!---
 Oyamasiphula\Oyamasiphula.com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
